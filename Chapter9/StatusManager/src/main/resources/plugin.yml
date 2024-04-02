@@ -1,0 +1,7 @@
+name: StatusManager
+version: '${project.version}'
+main: org.statusmanager.StatusManager
+api-version: '1.20'
+commands:
+  status:
+    description: "Status Manager Command"

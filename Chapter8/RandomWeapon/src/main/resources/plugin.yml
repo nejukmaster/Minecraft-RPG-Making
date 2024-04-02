@@ -1,0 +1,7 @@
+name: RandomWeapon
+version: '${project.version}'
+main: org.randomweapon.RandomWeapon
+api-version: '1.20'
+commands:
+  rdweapon:
+    description: "Random Weapon War v1.0"

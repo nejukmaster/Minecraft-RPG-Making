@@ -1,0 +1,7 @@
+name: BlockCrash
+version: '1.0-SNAPSHOT'
+main: org.learnplugin.ch01_02.blockcrash.BlockCrash
+api-version: '1.20'
+commands:
+  blockcrash:
+    description: "Block Crash Minigame"

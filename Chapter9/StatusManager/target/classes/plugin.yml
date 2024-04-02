@@ -1,0 +1,7 @@
+name: StatusManager
+version: '1.0-SNAPSHOT'
+main: org.statusmanager.StatusManager
+api-version: '1.20'
+commands:
+  status:
+    description: "Status Manager Command"

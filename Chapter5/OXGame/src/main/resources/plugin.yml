@@ -1,0 +1,7 @@
+name: OXGame
+version: '${project.version}'
+main: org.oxgame.OXGame
+api-version: '1.20'
+commands:
+  oxgame:
+    description: "OX Game!"
