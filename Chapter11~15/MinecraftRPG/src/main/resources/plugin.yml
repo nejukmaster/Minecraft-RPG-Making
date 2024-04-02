@@ -1,0 +1,7 @@
+name: MinecraftRPG
+version: '${project.version}'
+main: org.minecraftrpg.MinecraftRPG
+api-version: '1.20'
+commands:
+  rpg:
+    description: "Minecraft RPG Plugin"

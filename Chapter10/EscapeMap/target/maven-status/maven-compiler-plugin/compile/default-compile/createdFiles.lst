@@ -1,0 +1,7 @@
+org\escapemap\EscapeMap.class
+org\escapemap\Events.class
+org\escapemap\Stage.class
+org\escapemap\StageManager.class
+org\escapemap\Cmds.class
+org\escapemap\RegisterCustomEvents.class
+org\escapemap\PlayerEnterStageEvent.class

@@ -1,0 +1,7 @@
+name: EscapeMap
+version: '1.0-SNAPSHOT'
+main: org.escapemap.EscapeMap
+api-version: '1.20'
+commands:
+  escape:
+    description: "Escape Map Plugin Command"
